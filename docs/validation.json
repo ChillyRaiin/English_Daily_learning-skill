@@ -1,0 +1,23 @@
+{
+  "checks_passed": 10,
+  "checks": [
+    "complete English example accepted",
+    "Chinese in main text rejected",
+    "Inconsistent study-time total rejected",
+    "Answer before exercise rejected",
+    "Missing font glyph rejected before delivery",
+    "Existing lesson is not overwritten",
+    "Main and separate Chinese appendix rendered",
+    "All PDF font resources embedded with Unicode maps",
+    "Reading word count within configured range",
+    "Shared files contain no original user paths, chat IDs or unfinished placeholders"
+  ],
+  "sample_pages": 5,
+  "optional_chinese_pages": 1,
+  "reading_words": 520,
+  "visual_review": "All five main pages and the Chinese note page inspected; no clipping, missing text or split quick-check options.",
+  "second_renderer": "Poppler first-page render succeeded.",
+  "skill_structure": "quick_validate.py passed",
+  "default_push": "not enabled by installation",
+  "checked_on": "2026-11-02"
+}

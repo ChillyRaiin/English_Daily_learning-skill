@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "topics": [],
+  "excluded_topics": [],
+  "learning": {
+    "goal": "CET-6 reading, reasoning and expression",
+    "level": "CET-6",
+    "daily_minutes": 54,
+    "reading_words": [450, 650],
+    "chunk_count": 8,
+    "reasoning_question_count": 4,
+    "writing_words": [80, 100],
+    "main_language": "en",
+    "chinese_notes": "on_request",
+    "weekly_review_day": "SAT",
+    "light_minutes": 15,
+    "restart_minutes": 5
+  },
+  "sources": {
+    "free_access": true,
+    "allow_youtube": true,
+    "reading_mode": "original_teaching_passage",
+    "recency": "evergreen_or_recent_when_relevant"
+  },
+  "delivery": {
+    "enabled": false,
+    "local_time": null,
+    "timezone": null,
+    "destination": "current_chat"
+  },
+  "pdf": {
+    "background": "#F5EBD9",
+    "font_path": null,
+    "bold_font_path": null,
+    "cjk_font_path": null
+  }
+}

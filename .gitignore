@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+work/
+english-lab/
+**/profile.json
+**/history.jsonl
+**/scheduler.json
+outputs/
